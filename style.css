@@ -1,0 +1,33 @@
+body{
+	background: url(back.jpg);
+	background-repeat: no-repeat;
+	background-color: black;
+}
+
+img{
+	float: left;
+	width: 30%;
+	margin: 1.66%;
+	border-radius: 0 10% 0 10%;
+}
+
+
+.diff{
+	border-radius: 10% 0 10% 0;
+}
+
+h1{
+	color: white;
+	font-size: 4em;
+	text-shadow: 5px 4px 15px #000000;
+	text-align: center;
+	font-family: 'Monoton', cursive;
+	margin: 4% 0 4% 0;
+}
+
+hr{
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+	margin-bottom: 2%;
+}
